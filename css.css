@@ -224,7 +224,7 @@ strong,span{
 }
 .skill-bars li .progress {
 	background: #313131;
-	position: relative;
+	position: absolute;
 	height: 100%;
 }
 .skill-bars li .progress span {
