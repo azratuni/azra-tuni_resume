@@ -151,10 +151,32 @@ strong,span{
     font-size: 18px;
     line-height: 2;
 }
+.cardd > p{
+    color: #0e141e;
+    font-weight: bolder;
+    font-size: 18px;
+    line-height: 2;
+}
 .card > p > i{
     font-size: 18px;
 }
+.cardd > p > i{
+    font-size: 18px;
+}
 .card > a{
+    font-weight: 400;
+    font-size: 15px;
+    margin: 0;
+    margin-left: 25px;
+    padding: 0;
+    border: 0;
+    height: auto;
+    background: transparent;
+    color: #097bbf;
+    outline: none;
+    cursor: pointer;
+}
+.cardd > a{
     font-weight: 400;
     font-size: 15px;
     margin: 0;
@@ -214,7 +236,7 @@ strong,span{
 .skill-bars li {
 	height: .3rem;
 	background: #a1a1a1;
-	width: 50%;
+	width: 60%;
 	margin-bottom: 4rem;
 	padding: 0;
 	position: relative;
